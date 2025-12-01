@@ -28,3 +28,21 @@ A professional digital resume website for Mohammad Samsad Hussain, Database Admi
 3. Your resume will be live at: `username.github.io/repository-name`
 
 ## File Structure
+mohammad-samsad-resume/
+├── index.html # Main resume page
+├── styles.css # All styling and responsive design
+├── script.js # Interactive functionality
+├── images/ # Profile picture and assets
+│ └── profile.jpg
+├── Resume_DBA_MSamsad_2025_P.pdf # Downloadable resume
+└── README.md # This file
+
+## Sections Included
+- Professional Summary
+- Key Achievement (PostgreSQL Cookbook)
+- Technical Skills
+- Certifications
+- Professional Experience
+- Key Projects
+- Education
+- Contact Information
